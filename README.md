@@ -1,5 +1,5 @@
 # superagent-demo
-dsh-superagent 测试仓库：验证常驻 Agent 的工单流程
+本仓库用于 dsh-superagent 常驻 Agent 的端到端验证。
 ## 验收通过
 
 本仓库亦用于验收隔离实例的 Pull Request 端到端流程。
